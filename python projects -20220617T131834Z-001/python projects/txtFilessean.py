@@ -1,0 +1,3 @@
+DavidMiddleName = 'Alex' 
+  
+print (DavidMiddleName)
